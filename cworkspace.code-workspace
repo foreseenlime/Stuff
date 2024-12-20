@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "cstuff"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "rockpaperscissors"
+	}
+}

@@ -1,0 +1,27 @@
+body {
+    font-size: 2em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    border-style: solid;
+}
+
+button {
+    border-style: solid;
+    border-radius: 5px;
+}
+
+.playerBtns {
+    height: 40px;
+    width: 32%;
+    font-size: 20px;
+}
+
+button:hover {
+    background-color: aliceblue;
+}

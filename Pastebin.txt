@@ -1,0 +1,48 @@
+SOURCE GAMES:
+sv_cheats 1
+sv_cheats 0
+noclip 
+viewmodel_fov 70
+
+PORTAL:
+ch_
+
+TF2:
+bind MOUSE1 “+attack;impulse 101”
+mp_tournament 1
+sv_allow_point_servercommand always
+bind MOUSE5 kill
+
+
+
+
+
+some kind of bluberry
+dashless+ 
+custom points
+bio bounce
+ultra skool
+basic tech practice
+crystalized
+badeline's training
+alt side's helper
+susan helper
+
+
+
+
+remember to hold grab
+
+1. hyper bunnyhop
+2. downdash (don't jump when hitting the ground)
+3. when you reach the ground: downdash
+4. when you grab the jelly, jump
+
+
+
+
+
+
+
+
+
