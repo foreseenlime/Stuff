@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<math.h>
 #include<string.h>
-
+//i am transgender
 int main(){
 	char name[10];
     int des;
